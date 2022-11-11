@@ -1,5 +1,5 @@
 streamlit
 joblib
-sklearn=0.23.1
+sklearn
 
 
