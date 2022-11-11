@@ -6,6 +6,7 @@ Created on Fri Nov 11 12:04:01 2022
 """
 import streamlit as st
 import joblib
+import sklearn
 
 def main():
     html_temp="""
